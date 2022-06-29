@@ -1,0 +1,18 @@
+{
+  "name": "@diegoti/simple-error-handler-for-express",
+  "version": "1.0.0",
+  "description": "Simple error handler for express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simple",
+    "error",
+    "handler",
+    "for",
+    "express"
+  ],
+  "author": " <diegotorres.rj@gmail.com>",
+  "license": "ISC"
+}
